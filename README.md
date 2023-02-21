@@ -1,5 +1,30 @@
 <img width="auto" src="https://jawaragordon.com/img/name_badge.png"/>
 
+# About Me
+About me
+## I’m currently working on web applications like:
+<a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
+<a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
+<a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
+
+## I’m a bootcamp grad working as a full-time web developer. I'm continuing my education by building projects and collaborating with other devs at night and on the weekends. 
+
+## One of my goals this year is to collaborate on an open source project! 
+
+## I love technology, art. and music. I'm interested in AI, blockchain, ML, AR / VR and how they will interconnect with the future of creative experiences. 
+
+## Reach me at: jawara@jawaragordon.com 
+- visit my website to see more projects and learn more about me: jawaragordon.com
+
+# 📚 Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
+- [Getting Started with Data Visualization and Chart.js](https://medium.com/@jawaragordon/data-visualization-with-chart-js-a-step-by-step-guide-cd2aedc6a378?source=rss-d4be0cf41dad------2)
+- [The Battle for Perfection: AI vs. Sampling](https://medium.com/@jawaragordon/the-battle-for-perfection-ai-vs-sampling-500e9d773a2b?source=rss-d4be0cf41dad------2)
+- [The Stateful Eight: Tips for Using State in Your Next JavaScript Project](https://medium.com/@jawaragordon/the-stateful-eight-tips-for-using-state-in-your-next-javascript-project-63bcfede811f?source=rss-d4be0cf41dad------2)
+- [Magic in the Shell: A Deeper Look at the Command Line Interface](https://medium.com/@jawaragordon/magic-in-the-shell-a-deeper-look-at-the-command-line-interface-963a7503ba95?source=rss-d4be0cf41dad------2)
+<!-- BLOG-POST-LIST:END -->
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -42,15 +67,6 @@
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)
-
-# 📚 Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
-- [Getting Started with Data Visualization and Chart.js](https://medium.com/@jawaragordon/data-visualization-with-chart-js-a-step-by-step-guide-cd2aedc6a378?source=rss-d4be0cf41dad------2)
-- [The Battle for Perfection: AI vs. Sampling](https://medium.com/@jawaragordon/the-battle-for-perfection-ai-vs-sampling-500e9d773a2b?source=rss-d4be0cf41dad------2)
-- [The Stateful Eight: Tips for Using State in Your Next JavaScript Project](https://medium.com/@jawaragordon/the-stateful-eight-tips-for-using-state-in-your-next-javascript-project-63bcfede811f?source=rss-d4be0cf41dad------2)
-- [Magic in the Shell: A Deeper Look at the Command Line Interface](https://medium.com/@jawaragordon/magic-in-the-shell-a-deeper-look-at-the-command-line-interface-963a7503ba95?source=rss-d4be0cf41dad------2)
-<!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
