@@ -14,7 +14,7 @@
 📲 🖼 🎧 I love technology, art. and music. I'm interested in AI, blockchain, ML, AR / VR and how they will interconnect with the future of creative experiences. 
 
 ### Reach me at: jawara@jawaragordon.com 
-- visit my website to see more projects and learn more about me: jawaragordon.com
+- visit my website to see more projects and learn more about me: <a href="https://jawaragordon.com">jawaragordon.com</a>
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
