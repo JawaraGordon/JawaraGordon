@@ -10,6 +10,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=darkhub)]
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=eeuwxa3shvcx8p4d3dotoetc0&unique=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
