@@ -1,6 +1,7 @@
 ### 
 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
