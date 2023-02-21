@@ -41,7 +41,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 
-<div style="margin:auto">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
