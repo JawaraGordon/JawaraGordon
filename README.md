@@ -41,8 +41,6 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dropbox](https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
-
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
@@ -51,6 +49,8 @@
 - [The Stateful Eight: Tips for Using State in Your Next JavaScript Project](https://medium.com/@jawaragordon/the-stateful-eight-tips-for-using-state-in-your-next-javascript-project-63bcfede811f?source=rss-d4be0cf41dad------2)
 - [Magic in the Shell: A Deeper Look at the Command Line Interface](https://medium.com/@jawaragordon/magic-in-the-shell-a-deeper-look-at-the-command-line-interface-963a7503ba95?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
 ![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)
 
