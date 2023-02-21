@@ -1,6 +1,6 @@
 ### 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
 [![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)]
 
