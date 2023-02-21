@@ -78,8 +78,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=darkhub)
 
 # Workflow
-
-<figure><embed src="https://wakatime.com/share/@JawaraGordon/1b3778d1-2a3a-44a1-9e2e-3b395a05018d.svg"></embed></figure>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # Music
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=eeuwxa3shvcx8p4d3dotoetc0&unique=true)
