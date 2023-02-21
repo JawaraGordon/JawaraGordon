@@ -45,6 +45,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
+- [Getting Started with Data Visualization and Chart.js](https://medium.com/@jawaragordon/data-visualization-with-chart-js-a-step-by-step-guide-cd2aedc6a378?source=rss-d4be0cf41dad------2)
+- [The Battle for Perfection: AI vs. Sampling](https://medium.com/@jawaragordon/the-battle-for-perfection-ai-vs-sampling-500e9d773a2b?source=rss-d4be0cf41dad------2)
+- [The Stateful Eight: Tips for Using State in Your Next JavaScript Project](https://medium.com/@jawaragordon/the-stateful-eight-tips-for-using-state-in-your-next-javascript-project-63bcfede811f?source=rss-d4be0cf41dad------2)
+- [Magic in the Shell: A Deeper Look at the Command Line Interface](https://medium.com/@jawaragordon/magic-in-the-shell-a-deeper-look-at-the-command-line-interface-963a7503ba95?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 ![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)
