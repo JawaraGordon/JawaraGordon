@@ -6,6 +6,8 @@
 
 [![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)]
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=onedark)]
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
