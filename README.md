@@ -43,6 +43,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)
