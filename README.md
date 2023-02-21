@@ -1,5 +1,7 @@
 ### 
 
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
 ![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)
