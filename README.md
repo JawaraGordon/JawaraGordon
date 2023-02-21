@@ -7,7 +7,7 @@
 - <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
 - <a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
 
-💻 I started coding when my son got interested in scratch. I wanted to learn with him so I taught myself Swift and Solidity before completing a JavaScript, React and Ruby on Rails bootcamp. I now work as a full-time web developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
+💻 I started coding when my son got interested in programming. I taught myself how to make iOS apps before completing a fullstack software engineering bootcamp. I now work as a full-time web developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
 
 🤝 One of my goals this year is to collaborate on an open source project! 
 
