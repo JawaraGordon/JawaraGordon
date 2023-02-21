@@ -1,17 +1,17 @@
 <img width="auto" src="https://jawaragordon.com/img/name_badge.png"/>
 
 # About Me
-About me
+
 ## I’m currently working on web applications like:
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
 - <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
 - <a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
 
-## I’m a bootcamp grad working as a full-time web developer. I'm continuing my education by building projects and collaborating with other devs at night and on the weekends. 
+### 💻 I currently work as a fullstack web developer. I started coding when my son got interested in scratch. I wanted to learn with him so I taught myself Swift and Solidity before completing a JavaScript, React and Ruby on Rails bootcamp. I'm continuing my education by building projects, going to meetups, and collaborating with other devs on the weekends.
 
-## One of my goals this year is to collaborate on an open source project! 
+### 🤝 One of my goals this year is to collaborate on an open source project! 
 
-## I love technology, art. and music. I'm interested in AI, blockchain, ML, AR / VR and how they will interconnect with the future of creative experiences. 
+### 📲 🖼 🎧 I love technology, art. and music. I'm interested in AI, blockchain, ML, AR / VR and how they will interconnect with the future of creative experiences. 
 
 ## Reach me at: jawara@jawaragordon.com 
 - visit my website to see more projects and learn more about me: jawaragordon.com
