@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)]
 
-[![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jawaragordon)]
+[![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)]
 
 Here are some ideas to get you started:
 
