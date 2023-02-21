@@ -6,7 +6,7 @@
 
 [![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=onedark)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=darkhub)]
 
 Here are some ideas to get you started:
 
