@@ -1,4 +1,6 @@
-### 
+<img src="https://jawaragordon.com/img/webdevbanner.png"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,11 +52,10 @@
 - [Magic in the Shell: A Deeper Look at the Command Line Interface](https://medium.com/@jawaragordon/magic-in-the-shell-a-deeper-look-at-the-command-line-interface-963a7503ba95?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
+# GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
 ![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)
 
 ![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)
 
