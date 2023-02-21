@@ -79,5 +79,5 @@
 
 # Workflow
 
-![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)
+<!-- ![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon) -->
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=eeuwxa3shvcx8p4d3dotoetc0&unique=true)
