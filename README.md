@@ -43,7 +43,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
-# Blog posts
+# 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
 - [Getting Started with Data Visualization and Chart.js](https://medium.com/@jawaragordon/data-visualization-with-chart-js-a-step-by-step-guide-cd2aedc6a378?source=rss-d4be0cf41dad------2)
