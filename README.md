@@ -3,9 +3,9 @@
 # About Me
 About me
 ## I’m currently working on web applications like:
-<a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
-<a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
-<a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
+- <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
+- <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
+- <a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
 
 ## I’m a bootcamp grad working as a full-time web developer. I'm continuing my education by building projects and collaborating with other devs at night and on the weekends. 
 
