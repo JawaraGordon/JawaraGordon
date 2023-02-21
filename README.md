@@ -1,4 +1,4 @@
-<img src="https://jawaragordon.com/img/name_badge.png" max-wdith="600px"/>
+<img src="https://jawaragordon.com/img/name_badge.png" max-width="600px"/>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,8 +61,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=darkhub)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=eeuwxa3shvcx8p4d3dotoetc0&unique=true)
-
 # Workflow
 
 ![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=eeuwxa3shvcx8p4d3dotoetc0&unique=true)
