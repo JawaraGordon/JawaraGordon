@@ -2,13 +2,13 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jawaragordon)
 
-[![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)]
+![Jawara's GitHub stats](https://github-readme-stats.vercel.app/api?username=jawaragordon&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawaragordon&layout=compact)
 
-[![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)]
+![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JawaraGordon)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=darkhub)]
+![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=darkhub)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=eeuwxa3shvcx8p4d3dotoetc0&unique=true)
 
