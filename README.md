@@ -12,12 +12,19 @@
 ### 2023 Goals: 
 
 🌎 Attend meetups, conferences and hackathons
+
 🖥 Build a network of freelance clients 
+
 🤝 Collaborate on an open source project 
+
 💼 Create a portfolio site using new coding and design skills
+
 🏠 Redesign and update my personal website 
+
 🏆 Finish Google IT, AWS, Node.js, and React certification courses
+
 🤜🤛 Find a mentor 
+
 📝 Continue blogging about my experiences as a developer   
 
 ### Interests
