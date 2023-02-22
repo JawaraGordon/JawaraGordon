@@ -78,8 +78,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=jawaragordon&theme=darkhub)
 
 # Workflow
-![Jawara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@b30e5734-aa0f-4fda-92b4-d7e1ba70ca99)
 [![wakatime](https://wakatime.com/badge/user/b30e5734-aa0f-4fda-92b4-d7e1ba70ca99.svg)](https://wakatime.com/@b30e5734-aa0f-4fda-92b4-d7e1ba70ca99)
+[![wakatime]([https://wakatime.com/badge/user/b30e5734-aa0f-4fda-92b4-d7e1ba70ca99.svg](https://wakatime.com/share/@JawaraGordon/6cf27356-d59e-45d3-931a-f104629d34e3.svg))](https://wakatime.com/@b30e5734-aa0f-4fda-92b4-d7e1ba70ca99)
+
 
 
 # Music
