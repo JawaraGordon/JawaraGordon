@@ -79,7 +79,7 @@
 
 # Workflow
 [![wakatime](https://wakatime.com/badge/user/b30e5734-aa0f-4fda-92b4-d7e1ba70ca99.svg)](https://wakatime.com/@b30e5734-aa0f-4fda-92b4-d7e1ba70ca99)
-<img width="auto" src="https://wakatime.com/share/@JawaraGordon/6cf27356-d59e-45d3-931a-f104629d34e3.svg"/>
+<img width="400px" src="https://wakatime.com/share/@JawaraGordon/6cf27356-d59e-45d3-931a-f104629d34e3.svg"/>
 
 
 # Music
