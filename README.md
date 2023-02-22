@@ -2,14 +2,25 @@
 
 # About Me
 
-## I’m currently working on web applications like:
+## I’m focused on learning the MERN stack while continuing to build on JavaScript fundamentals with apps like:
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
 - <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
 - <a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
 
 💻 I started coding when my son got interested in programming. I taught myself how to make iOS apps before completing a fullstack software engineering bootcamp. I now work as a full-time web developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
 
-🤝 One of my goals this year is to collaborate on an open source project! 
+### 2023 Goals: 
+
+🌎 Attend meetups, conferences and hackathons
+🖥 Build a network of freelance clients 
+🤝 Collaborate on an open source project 
+💼 Create a portfolio site using new coding and design skills
+🏠 Redesign and update my personal website 
+🏆 Finish Google IT, AWS, Node.js, and React certification courses
+🤜🤛 Find a mentor 
+📝 Continue blogging about my experiences as a developer   
+
+### Interests
 
 📲 🖼 🎧 I love technology, art, and music. I'm interested in AI, blockchain, ML, AR / VR and how they intersect with the future of creative experiences. 
 
