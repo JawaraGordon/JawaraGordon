@@ -8,6 +8,8 @@
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
 - <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
 - <a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
+- <a href="https://github.com/JawaraGordon/fade-in-on-scroll">Fade-In-On-Scroll</a>
+
 
 ### 2023 Goals: 
 
