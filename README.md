@@ -2,7 +2,7 @@
 
 # About Me
 
-### 💻 I started coding when my son got interested in programming. I taught myself how to make iOS apps before completing a fullstack software engineering bootcamp. I now work as a full-time web developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
+### 💻 I started coding in the mid-2010s when my son got interested in programming. I taught myself how to make iOS apps before completing a fullstack software engineering bootcamp. I now work as a full-time web developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
 
 ### I’m currently learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
