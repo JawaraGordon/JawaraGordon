@@ -11,9 +11,9 @@
 
 ### 2023 Goals: 
 
-💼 Create a new portfolio site using new coding and design skills
+💼 Update my portfolio site using new coding and design skills
 
-🏠 Redesign and update my personal website 
+🏠 Design and create a separate personal website 
 
 🌎 Attend meetups, conferences and hackathons
 
