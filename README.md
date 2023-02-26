@@ -42,7 +42,7 @@
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Making Scroll Effects With JavaScript’s Intersection Observer API](https://medium.com/@jawaragordon/making-scroll-effects-with-javascripts-intersection-observer-api-63c19d1b4b1d?source=rss-d4be0cf41dad------2)
+- [Converging With JavaScript’s Intersection Observer API](https://medium.com/@jawaragordon/making-scroll-effects-with-javascripts-intersection-observer-api-63c19d1b4b1d?source=rss-d4be0cf41dad------2)
 - [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
 - [Getting Started with Data Visualization and Chart.js](https://medium.com/@jawaragordon/data-visualization-with-chart-js-a-step-by-step-guide-cd2aedc6a378?source=rss-d4be0cf41dad------2)
 - [The Battle for Perfection: AI vs. Sampling](https://medium.com/@jawaragordon/the-battle-for-perfection-ai-vs-sampling-500e9d773a2b?source=rss-d4be0cf41dad------2)
