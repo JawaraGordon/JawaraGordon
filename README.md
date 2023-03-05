@@ -42,11 +42,11 @@
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [From Bootcamp to Hired: How I Got a Developer Job in 3 Weeks](https://medium.com/@jawaragordon/how-i-landed-a-full-stack-developer-job-3-weeks-after-graduating-from-a-software-engineering-750e94f2fa56?source=rss-d4be0cf41dad------2)
 - [Converging With JavaScript’s Intersection Observer API](https://medium.com/@jawaragordon/making-scroll-effects-with-javascripts-intersection-observer-api-63c19d1b4b1d?source=rss-d4be0cf41dad------2)
 - [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
 - [Getting Started with Data Visualization and Chart.js](https://medium.com/@jawaragordon/data-visualization-with-chart-js-a-step-by-step-guide-cd2aedc6a378?source=rss-d4be0cf41dad------2)
 - [The Battle for Perfection: AI vs. Sampling](https://medium.com/@jawaragordon/the-battle-for-perfection-ai-vs-sampling-500e9d773a2b?source=rss-d4be0cf41dad------2)
-- [The Stateful Eight: Tips for Using State in Your Next JavaScript Project](https://medium.com/@jawaragordon/the-stateful-eight-tips-for-using-state-in-your-next-javascript-project-63bcfede811f?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Skills 
