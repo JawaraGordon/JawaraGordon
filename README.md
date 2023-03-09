@@ -22,8 +22,11 @@
 🏠 Design and create a separate personal website 
 
 🌎 Attend meetups, conferences and hackathons
+- Tampa Bay Dev Group 
+- #dearjuniordev
 
 🖥 Build a network of freelance clients 
+- 2/5
 
 🤝 Collaborate on an open source project 
 
@@ -32,6 +35,7 @@
 🤜🤛 Find a mentor 
 
 📝 Continue blogging about my experiences as a developer   
+- 2023 blog count = 9 
 
 ### Interests
 
