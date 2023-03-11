@@ -22,8 +22,14 @@
 🏠 Design and create a separate personal website 
 
 🌎 Attend meetups, conferences and hackathons
+### Meetups: 
 - Tampa Bay Dev Group 
+- South of the Bay 
+### Discord Communities: 
 - #dearjuniordev
+- Commit Your Code 
+### Conferences: 
+- B-Sides Tampa Cybersecurity
 
 🖥 Build a network of freelance clients 
 - 2/5
