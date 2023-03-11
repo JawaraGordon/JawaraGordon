@@ -36,6 +36,8 @@
 
 🤝 Collaborate on an open source project 
 
+🤝 Contribute to a GitHub project 
+
 🏆 Finish Google IT, AWS, Node.js, and React certification courses
 
 🤜🤛 Find a mentor 
