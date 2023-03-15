@@ -24,7 +24,7 @@
 🌎 Attend meetups, conferences and hackathons
 ### Meetups: 
 - Tampa Bay Dev Group 
-- South of the Bay 
+- South of the Bay Dev Group
 ### Discord Communities: 
 - #dearjuniordev
 - Commit Your Code 
@@ -44,7 +44,7 @@
 🤜🤛 Find a mentor 
 
 📝 Continue blogging about my experiences as a developer   
-- 2023 blog count = 9 
+- 2023 blog count = 10 
 
 ### Interests
 
