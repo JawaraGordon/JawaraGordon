@@ -29,7 +29,8 @@
 - #dearjuniordev
 - Commit Your Code 
 ### Conferences: 
-- B-Sides Tampa Cybersecurity
+- B-Sides Tampa Cybersecurity 4/1
+- Microsoft Build 5/23-5/24
 
 🖥 Build a network of freelance clients 
 - 2/5
