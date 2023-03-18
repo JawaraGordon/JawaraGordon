@@ -23,14 +23,16 @@
 
 🌎 Attend meetups, conferences and hackathons
 ### Meetups: 
-- Tampa Bay Dev Group 
-- South of the Bay Dev Group
+- Tampa Bay Dev Group - every 3rd Thursday
+- South of the Bay Dev Group - 3/15
 ### Discord Communities: 
 - #dearjuniordev
 - Commit Your Code 
 ### Conferences: 
 - B-Sides Tampa Cybersecurity 4/1
+- - Google I/O '23 5/10
 - Microsoft Build 5/23-5/24
+
 
 🖥 Build a network of freelance clients 
 - 2/5
