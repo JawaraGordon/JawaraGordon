@@ -30,7 +30,7 @@
 - Commit Your Code 
 ### Conferences: 
 - B-Sides Tampa Cybersecurity 4/1
-- - Google I/O '23 5/10
+- Google I/O '23 5/10
 - Microsoft Build 5/23-5/24
 
 
