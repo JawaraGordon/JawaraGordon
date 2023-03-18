@@ -6,7 +6,7 @@
 
 ### After teaching myself HTML / CSS and WordPress, I moved on to iOS apps. 
 
-### I recently completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React and Ruby on Rails. I now work as a Full-Stack Web Developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
+### I recently completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React and Ruby on Rails. I now work as a fulltime developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
 
 ### I’m currently learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
