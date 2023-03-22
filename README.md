@@ -39,7 +39,7 @@
 
 🤝 Collaborate on an open source project 
 
-🤝 Contribute to a forked GitHub repo 
+🤝 Contribute to a forked GitHub repo ✅
 
 🏆 Finish Google IT, AWS, Node.js, and React certification courses
 
