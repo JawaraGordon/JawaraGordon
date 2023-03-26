@@ -57,11 +57,11 @@
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Defending Your Database With Mongoose for MongoDB](https://medium.com/@jawaragordon/defending-your-database-with-mongoose-for-mongodb-bb34e9e5ce89?source=rss-d4be0cf41dad------2)
 - [8 Bits Of Advice For New Developers](https://medium.com/@jawaragordon/8-bits-of-advice-for-new-developers-8dd8a0a8486?source=rss-d4be0cf41dad------2)
 - [Pug Templates: A Developer’s Faithful Companion](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb?source=rss-d4be0cf41dad------2)
 - [From Bootcamp to Hired: How I Got a Developer Job in 3 Weeks](https://medium.com/@jawaragordon/how-i-landed-a-full-stack-developer-job-3-weeks-after-graduating-from-a-software-engineering-750e94f2fa56?source=rss-d4be0cf41dad------2)
 - [Converging With JavaScript’s Intersection Observer API](https://medium.com/@jawaragordon/making-scroll-effects-with-javascripts-intersection-observer-api-63c19d1b4b1d?source=rss-d4be0cf41dad------2)
-- [Letting Go of Code: The Zen Approach to Programming](https://medium.com/@jawaragordon/letting-go-of-code-the-zen-approach-to-programming-bdd5e2b25ba3?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Skills 
