@@ -46,7 +46,7 @@
 🤜🤛 Find a mentor 
 
 📝 Continue blogging about my experiences as a developer   
-- 2023 blog count = 11
+- 2023 blog count = 12
 
 ### Interests
 
