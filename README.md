@@ -33,6 +33,8 @@
 - Google I/O '23 5/10
 - Microsoft Build 5/23-5/24
 
+### Speak on a tech panel
+- SCF Coding Acdemy 2/22
 
 🖥 Build a network of freelance clients 
 - 2/5
@@ -44,6 +46,8 @@
 🏆 Finish Google IT, AWS, Node.js, and React certification courses
 
 🤜🤛 Find a mentor 
+
+☕ Schedule Coffee Chats 
 
 📝 Continue blogging about my experiences as a developer   
 - 2023 blog count = 12
