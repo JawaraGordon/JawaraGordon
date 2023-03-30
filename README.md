@@ -33,7 +33,7 @@
 - Google I/O '23 5/10
 - Microsoft Build 5/23-5/24
 
-### Speak on a tech panel
+### Speak on a tech panel ✅
 - SCF Coding Acdemy 2/22
 
 🖥 Build a network of freelance clients 
@@ -47,10 +47,14 @@
 
 🤜🤛 Find a mentor 
 
-☕ Schedule Coffee Chats 
+☕ Schedule Coffee Chats ✅
 
 📝 Continue blogging about my experiences as a developer   
 - 2023 blog count = 12
+
+### Have a Blog published ✅
+- POCIT 3/29/23 
+<a href="https://peopleofcolorintech.com/articles/from-bootcamp-to-hired-how-i-got-a-developer-job-in-3-weeks/">People of Color in Tech</a>
 
 ### Interests
 
