@@ -52,7 +52,7 @@
 📝 Continue blogging about my experiences as a developer   
 - 2023 blog count = 12
 
-### Have a Blog published ✅
+### Have a article published ✅
 - POCIT 3/29/23 
 <a href="https://peopleofcolorintech.com/articles/from-bootcamp-to-hired-how-i-got-a-developer-job-in-3-weeks/">People of Color in Tech</a>
 
