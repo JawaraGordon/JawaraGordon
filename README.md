@@ -2,7 +2,7 @@
 
 # About Me
 
-### 💻 I started coding when my son got interested in making games with Scratch. 
+### 💻 I started coding to help my son make games with Scratch. 
 
 ### After teaching myself HTML / CSS and WordPress, I moved on to iOS apps. 
 
