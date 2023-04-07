@@ -65,11 +65,11 @@
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BSides Tampa: A Cybersecurity Conference for Everyone](https://medium.com/@jawaragordon/bsides-tampa-a-cybersecurity-conference-for-everyone-4375ff8aefa5?source=rss-d4be0cf41dad------2)
 - [Navigating Social Anxiety in the Tech Industry](https://medium.com/@jawaragordon/navigating-social-anxiety-in-the-tech-industry-6fd913bda3d1?source=rss-d4be0cf41dad------2)
 - [Defending Your Database With Mongoose for MongoDB](https://medium.com/@jawaragordon/defending-your-database-with-mongoose-for-mongodb-bb34e9e5ce89?source=rss-d4be0cf41dad------2)
 - [8 Bits Of Advice For New Developers](https://medium.com/@jawaragordon/8-bits-of-advice-for-new-developers-8dd8a0a8486?source=rss-d4be0cf41dad------2)
 - [Pug Templates: A Developer’s Faithful Companion](https://medium.com/@jawaragordon/pug-templates-a-developers-faithful-companion-1cd71355d4eb?source=rss-d4be0cf41dad------2)
-- [From Bootcamp to Hired: How I Got a Developer Job in 3 Weeks](https://medium.com/@jawaragordon/how-i-landed-a-full-stack-developer-job-3-weeks-after-graduating-from-a-software-engineering-750e94f2fa56?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Skills 
