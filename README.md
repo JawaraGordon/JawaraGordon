@@ -50,7 +50,7 @@
 ☕ Schedule Coffee Chats ✅
 
 📝 Continue blogging about my experiences as a developer   
-- 2023 blog count = 13
+- 2023 blog count = 14
 
 ### Have a article published ✅
 - POCIT 3/29/23 
