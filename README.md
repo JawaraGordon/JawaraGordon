@@ -29,7 +29,7 @@
 - #dearjuniordev
 - Commit Your Code 
 ### Conferences: 
-- B-Sides Tampa Cybersecurity 4/1
+- B-Sides Tampa Cybersecurity 4/1 ✅
 - Google I/O '23 5/10
 - Microsoft Build 5/23-5/24
 
@@ -45,7 +45,7 @@
 
 🏆 Finish Google IT, AWS, Node.js, and React certification courses
 
-🤜🤛 Find a mentor 
+🤜🤛 Find a mentor ✅
 
 ☕ Schedule Coffee Chats ✅
 
