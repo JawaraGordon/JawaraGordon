@@ -65,11 +65,11 @@
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 3D Modeling with Three.js](https://medium.com/@jawaragordon/javascript-3d-modeling-with-three-js-a169aa2694e6?source=rss-d4be0cf41dad------2)
 - [Jest: The Delightful JavaScript Testing Suite](https://medium.com/@jawaragordon/jest-the-delightful-javascript-testing-suite-e129390ee65?source=rss-d4be0cf41dad------2)
 - [Why Your JavaScript Code Needs Error Handling](https://medium.com/@jawaragordon/why-your-javascript-code-needs-error-handling-8422913ad1cb?source=rss-d4be0cf41dad------2)
 - [BSides Tampa: A Cybersecurity Conference for Everyone](https://medium.com/@jawaragordon/bsides-tampa-a-cybersecurity-conference-for-everyone-4375ff8aefa5?source=rss-d4be0cf41dad------2)
 - [Navigating Social Anxiety in the Tech Industry](https://medium.com/@jawaragordon/navigating-social-anxiety-in-the-tech-industry-6fd913bda3d1?source=rss-d4be0cf41dad------2)
-- [Defending Your Database With Mongoose for MongoDB](https://medium.com/@jawaragordon/defending-your-database-with-mongoose-for-mongodb-bb34e9e5ce89?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Skills 
