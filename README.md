@@ -30,11 +30,18 @@
 - Commit Your Code 
 ### Conferences: 
 - B-Sides Tampa Cybersecurity 4/1 ✅
-- Google I/O '23 5/10
-- Microsoft Build 5/23-5/24
+- Google I/O '23 5/10 ✅
+- Microsoft Build 5/23-5/24 ✅
+- WWDC ✅
+
 
 ### Speak on a tech panel ✅
-- SCF Coding Acdemy 2/22
+- SCF Coding Acdemy 2/22 
+
+### Host a Workshop
+
+- BBM 6/29/23 ✅
+
 
 🖥 Build a network of freelance clients 
 - 2/5
