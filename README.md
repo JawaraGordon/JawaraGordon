@@ -9,6 +9,7 @@
 ### I recently completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React and Ruby on Rails. I now work as a fulltime developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
 
 ### I’m currently learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
+- <a href="https://rocksolidskulls.com">Rock Solid Skulls (E-commerce store)</a>
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
 - <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
 - <a href="https://www.lifemusic.me/">Life Music (Mood Generated Song Playlists)</a>
