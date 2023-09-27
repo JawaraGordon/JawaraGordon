@@ -37,8 +37,9 @@
 - TEDx 9/29
 
 
-### Speak on a tech panel ✅
-- SCF Coding Acdemy 2/22 
+### Speak on tech panels ✅
+- SCF Coding Academy 2/22 
+- LWRBA 10/25
 
 ### Host a Workshop
 
