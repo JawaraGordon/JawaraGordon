@@ -34,6 +34,7 @@
 - Google I/O '23 5/10 ✅
 - Microsoft Build 5/23-5/24 ✅
 - WWDC ✅
+- TEDx 9/29
 
 
 ### Speak on a tech panel ✅
@@ -45,20 +46,20 @@
 
 
 🖥 Build a network of freelance clients 
-- 2/5
+- 3/5
 
 🤝 Collaborate on an open source project 
 
 🤝 Contribute to a forked GitHub repo ✅
 
-🏆 Finish Google IT, AWS, Node.js, and React certification courses
+🏆 Finish Google IT, AWS,  ̶N̶o̶d̶e̶.̶j̶s̶, and React certification courses
 
 🤜🤛 Find a mentor ✅
 
 ☕ Schedule Coffee Chats ✅
 
 📝 Continue blogging about my experiences as a developer   
-- 2023 blog count = 17
+- 2023 blog count = 18
 
 ### Have a article published ✅
 - POCIT 3/29/23 
