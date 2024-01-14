@@ -75,11 +75,11 @@
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ready Player React: How to Build a Video Game with JavaScript — Part 1](https://medium.com/@jawaragordon/ready-player-react-how-to-build-a-video-game-with-javascript-part-1-fbda59e173f5?source=rss-d4be0cf41dad------2)
 - [Choose Your Own Adventure: NEXT.js App vs. Pages Router](https://medium.com/@jawaragordon/choose-your-own-adventure-next-js-app-vs-pages-router-528dbf25b37f?source=rss-d4be0cf41dad------2)
 - [Parents Who Code: An Open &lpar;Love&rpar; Letter](https://medium.com/@jawaragordon/parents-who-code-an-open-love-letter-13d46cc7e2a0?source=rss-d4be0cf41dad------2)
 - [JavaScript 3D Modeling with Three.js](https://medium.com/@jawaragordon/javascript-3d-modeling-with-three-js-a169aa2694e6?source=rss-d4be0cf41dad------2)
 - [Jest: The Delightful JavaScript Testing Suite](https://medium.com/@jawaragordon/jest-the-delightful-javascript-testing-suite-e129390ee65?source=rss-d4be0cf41dad------2)
-- [Why Your JavaScript Code Needs Error Handling](https://medium.com/@jawaragordon/why-your-javascript-code-needs-error-handling-8422913ad1cb?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Skills 
