@@ -6,7 +6,7 @@
 
 ### After teaching myself HTML / CSS and WordPress, I moved on to iOS apps. 
 
-### I recently completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React and Ruby on Rails. I now work as a fulltime developer while continuing my education by building projects, going to meetups, and collaborating with other devs in my free time.
+### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React and Ruby on Rails. I was hired as a full-time developer in October 2023 with Grapevine Communications. I am continuing my pursuit of Software Engineering by building projects, going to meetups, and collaborating with other devs in my free time.
 
 ### I’m currently learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
 - <a href="https://rocksolidskulls.com">Rock Solid Skulls (E-commerce store)</a>
@@ -16,51 +16,42 @@
 - <a href="https://fade-in-on-scroll.vercel.app/">Fade-In-On-Scroll</a>
 
 
-### 2023 Goals: 
+### 2024 Goals: 
 
-💼 Update my portfolio site using new coding and design skills
+💼 Update my dev portfolio site using Next.js, TypeScript, and Tailwind. 
 
-🏠 Design and create a separate personal website 
+🏠 Launch a web dev side business: <a href="https://staticfreedesigns.com">Static Free Designs</a> ✅
 
 🌎 Attend meetups, conferences and hackathons
 ### Meetups: 
-- Tampa Bay Dev Group - every 3rd Thursday
-- South of the Bay Dev Group - 3/15
+- TBD
+  
 ### Discord Communities: 
-- #dearjuniordev
-- Commit Your Code 
+- <a href="https://www.bigcashmoney.com/"> Big Cash Money </a> ✅
+- Gun.io
+- Commit Your Code
+  
 ### Conferences: 
-- B-Sides Tampa Cybersecurity 4/1 ✅
-- Google I/O '23 5/10 ✅
-- Microsoft Build 5/23-5/24 ✅
-- WWDC ✅
-- TEDx 9/29
+- B-Sides Tampa Cybersecurity ✅
+- Render Atlanta
 
 
 ### Speak on tech panels ✅
-- SCF Coding Academy 2/22 
-- LWRBA 10/25
+- DA4A Patterson Foundation 
 
-### Host a Workshop
-
-- BBM 6/29/23 ✅
-
-
-🖥 Build a network of freelance clients 
-- 3/5
 
 🤝 Collaborate on an open source project 
 
 🤝 Contribute to a forked GitHub repo ✅
 
-🏆 Finish Google IT, AWS,  ̶N̶o̶d̶e̶.̶j̶s̶, and React certification courses
+🏆 Finish  UI/UX, AWS, and React certification courses
 
 🤜🤛 Find a mentor ✅
 
 ☕ Schedule Coffee Chats ✅
 
 📝 Continue blogging about my experiences as a developer   
-- 2023 blog count = 18
+
 
 ### Have a article published ✅
 - POCIT 3/29/23 
