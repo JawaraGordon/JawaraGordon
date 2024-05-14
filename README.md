@@ -8,7 +8,7 @@
 
 ### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React, and Ruby on Rails. I was hired as a full-time developer in October 2022 and currently work in the same role while adding UI/UX Designer to my list of skills in 2024. I am continuing my pursuit of Software Engineering by building projects, practicing DS&As, going to meetups, and collaborating with other devs in my free time.
 
-### I’m currently learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
+### I spent 2023 learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
 - <a href="https://rocksolidskulls.com">Rock Solid Skulls (E-commerce store)</a>
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
 - <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
