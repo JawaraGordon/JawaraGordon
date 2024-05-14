@@ -6,7 +6,7 @@
 
 ### After teaching myself HTML / CSS and WordPress, I moved on to iOS apps. 
 
-### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React and Ruby on Rails. I was hired as a full-time developer in October 2023 and currently work in the same role while adding UI/UX Deisgner to my list of skills in 2024. I am continuing my pursuit of Software Engineering by building projects, practicing DS&As, going to meetups, and collaborating with other devs in my free time.
+### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React, and Ruby on Rails. I was hired as a full-time developer in October 2023 and currently work in the same role while adding UI/UX Designer to my list of skills in 2024. I am continuing my pursuit of Software Engineering by building projects, practicing DS&As, going to meetups, and collaborating with other devs in my free time.
 
 ### I’m currently learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
 - <a href="https://rocksolidskulls.com">Rock Solid Skulls (E-commerce store)</a>
@@ -22,7 +22,7 @@
 
 🏠 Launch a web dev side business: <a href="https://staticfreedesigns.com">Static Free Designs</a> ✅
 
-🌎 Attend meetups, conferences and hackathons
+🌎 Attend meetups, conferences, and hackathons
 ### Meetups: 
 - TBD
   
@@ -40,7 +40,7 @@
 - DA4A Patterson Foundation 
 
 
-🤝 Collaborate on an open source project 
+🤝 Collaborate on an open-source project 
 
 🤝 Contribute to a forked GitHub repo ✅
 
@@ -53,7 +53,7 @@
 📝 Continue blogging about my experiences as a developer   
 
 
-### Have a article published ✅
+### Have an article published ✅
 - POCIT 3/29/23 
 <a href="https://peopleofcolorintech.com/articles/from-bootcamp-to-hired-how-i-got-a-developer-job-in-3-weeks/">People of Color in Tech</a>
 
