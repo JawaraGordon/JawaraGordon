@@ -18,6 +18,9 @@
 
 ### 2024 Goals: 
 
+Participate in a Hackathon ✅
+- Check out the results here: <a href="https://vibecheck.today">Vibe Check</a>
+
 💼 Update my dev portfolio site using Next.js, TypeScript, and Tailwind. 
 
 🏠 Launch a web dev side business: <a href="https://staticfreedesigns.com">Static Free Designs</a> ✅
