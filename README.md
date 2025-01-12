@@ -69,11 +69,11 @@ Participate in a Hackathon ✅
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript’s MutationObserver API &lpar;Secrets of the Ooze Revealed&rpar;](https://medium.com/@jawaragordon/javascripts-mutationobserver-api-secrets-of-the-ooze-revealed-47137719c14b?source=rss-d4be0cf41dad------2)
 - [Reflecting on 2024 — A Year of Growth, Challenges, and New Horizons as a Software Engineer](https://medium.com/@jawaragordon/reflecting-on-2024-a-year-of-growth-challenges-and-new-horizons-as-a-software-engineer-468b094d7627?source=rss-d4be0cf41dad------2)
 - [Culture and Code:  A Beginner’s Guide to Render ATL](https://medium.com/@jawaragordon/culture-and-code-a-beginners-guide-to-render-atl-b11825714cf3?source=rss-d4be0cf41dad------2)
 - [Ready Player React: How to Build a Video Game With JavaScript — Part 4](https://medium.com/@jawaragordon/ready-player-react-how-to-build-a-video-game-with-javascript-part-4-b4396c85eec9?source=rss-d4be0cf41dad------2)
 - [Ready Player React: How to Build a Video Game with JavaScript — Part 3](https://medium.com/@jawaragordon/ready-player-react-how-to-build-a-video-game-with-javascript-part-3-be633e4adcd4?source=rss-d4be0cf41dad------2)
-- [Ready Player React: How to Build a Video Game with JavaScript — Part 2](https://medium.com/@jawaragordon/ready-player-react-how-to-build-a-video-game-with-javascript-part-2-29b29ea93a9c?source=rss-d4be0cf41dad------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Skills 
