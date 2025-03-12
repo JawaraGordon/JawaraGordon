@@ -23,7 +23,7 @@
 
 Continue my pursuit of a BCS: 
 - Daily LeetCode practice
-- Take Mock Interviews
+- Mock Interviews
 - Begin taking CS credit classes locally, then finish online at WGU
 
 Participate in more Hackathon 
