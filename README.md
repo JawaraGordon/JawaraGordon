@@ -26,12 +26,12 @@ Continue my pursuit of a BCS:
 - Mock Interviews
 - Begin taking CS credit classes locally, then finish online at WGU
 
-Participate in more Hackathons 
-- Check out one of my favorites here: <a href="https://vibecheck.today">Vibe Check</a>
+### Participate in more Hackathons 
+- Check out one of my favorite hackathon projects here: <a href="https://vibecheck.today">Vibe Check</a>
 
 💼 Update my dev portfolio site using Next.js, TypeScript, and Tailwind. 
 
-🌎 Attend meetups, conferences, and hackathons
+🌎 Attend meetup and conferences:
 ### Meetups: 
 - TBD
   
@@ -46,7 +46,7 @@ Participate in more Hackathons
 - Podcast Movement  
 
 
-### Speak on tech panels and at meetups
+### Speak on tech panels
 
 
 🤝 Collaborate on an open-source project 
