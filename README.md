@@ -1,14 +1,17 @@
-<img width="auto" src="https://jawaragordon.com/img/name_badge.png"/>
+<img width="auto" src="https://jawaragordon.com/img/social-banner.png"/>
 
 # About Me
 
-### 💻 I started coding to help my son make games with Scratch. 
+### 💻 I started coding to help my son make video games. 
 
 ### After teaching myself HTML / CSS and WordPress, I moved on to iOS apps. 
 
-### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React, and Ruby on Rails. I was hired as a Full-stack developer in October 2022 and currently work in the same role while adding UI/UX Designer to my list of skills in 2024. I am continuing my pursuit of Software Engineering by building projects, practicing DS&As, going to meetups, and collaborating with other devs in my free time.
+### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React, and Ruby on Rails. I was hired as a Full-stack developer in October 2022 and currently work in the same role while adding UI/UX Designer to my list of skills. I am continuing my pursuit of Software Engineering by building projects, practicing DS&As, going to meetups, and collaborating with other devs in my free time.
 
-### I spent 2023 learning the MERN stack while continuing to focus on JavaScript fundamentals with apps like:
+### I recently started my own freelance web development company called <a href="https://staticfreedesigns.com"> Static Free Designs </a> where I design, host, and deploy custom web applications using WordPress, MERN stack, and Linux, incorporating UI/UX best practices and accessibility standards.
+
+
+### I spent 2024 learning to build AI apps while continuing to focus on JavaScript fundamentals with apps like:
 - <a href="https://rocksolidskulls.com">Rock Solid Skulls (E-commerce store)</a>
 - <a href="https://jawaragordon.github.io/free-throw-counter/">Sure Shot! (Basketball Tracker)</a>
 - <a href="https://css-masks.vercel.app/">Color Mask Morph (SVG / Image mask and color picker)</a>
@@ -16,47 +19,50 @@
 - <a href="https://fade-in-on-scroll.vercel.app/">Fade-In-On-Scroll</a>
 
 
-### 2024 Goals: 
+### 2025 Goals: 
 
-Participate in a Hackathon ✅
-- Check out the results here: <a href="https://vibecheck.today">Vibe Check</a>
+Continue my pursuit of a BCS: 
+- Daily LeetCode practice
+- Take Mock Interviews
+- Begin taking CS credit classes locally, then finish online at WGU
+
+Participate in more Hackathon 
+- Check out one of my favorites here: <a href="https://vibecheck.today">Vibe Check</a>
 
 💼 Update my dev portfolio site using Next.js, TypeScript, and Tailwind. 
-
-🏠 Launch a web dev side business: <a href="https://staticfreedesigns.com">Static Free Designs</a> ✅
 
 🌎 Attend meetups, conferences, and hackathons
 ### Meetups: 
 - TBD
   
-### Discord Communities: 
-- <a href="https://www.bigcashmoney.com/"> Big Cash Money </a> ✅
-- Gun.io
+### Participate in Discord Communities: 
 - Commit Your Code
+- Torc
+- Scrimba
+- Brilliant Black Minds
   
-### Conferences: 
-- B-Sides Tampa Cybersecurity ✅
-- Render Atlanta ✅
+### Attend Conferences: 
+- Commit Your Code
+- Podcast Movement  
 
 
-### Speak on tech panels ✅
-- DA4A Patterson Foundation loading...
+### Speak on tech panels and at meetups
 
 
 🤝 Collaborate on an open-source project 
 
-🤝 Contribute to a forked GitHub repo ✅
+🏆 Finish  UAWS and React certification courses
 
-🏆 Finish  U̶I̶/U̶X̶, AWS, and React certification courses
+🤜🤛 Find a new mentor 
 
-🤜🤛 Find a mentor ✅
+☕ Schedule Coffee Chats 
 
-☕ Schedule Coffee Chats ✅
-
-📝 Continue blogging about my experiences as a developer ✅
+📝 Continue blogging about my experiences as a developer 
 
 
-### Have an article published ✅
+### Featured articles: 
+- August 2024
+- <a href="https://www.linkedin.com/pulse/hustle-gitflow-how-build-your-catalog-skills-income-streams-gordon-encve"> Brilliant Black Minds </a>
 - POCIT 3/29/23 
 <a href="https://peopleofcolorintech.com/articles/from-bootcamp-to-hired-how-i-got-a-developer-job-in-3-weeks/">People of Color in Tech</a>
 
