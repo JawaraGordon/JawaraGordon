@@ -6,7 +6,7 @@
 
 ### After teaching myself HTML / CSS and WordPress, I moved on to iOS apps. 
 
-### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React, and Ruby on Rails. I was hired as a Full-stack developer in October 2022 and currently work in the same role while adding UI/UX Designer to my list of skills. I am continuing my pursuit of Software Engineering by building projects, practicing DS&As, going to meetups, and collaborating with other devs in my free time.
+### I completed a full-stack software engineering bootcamp in September of 2022 focused on JavaScript, React, and Ruby on Rails. I was hired as a Full-stack developer in October 2022 and currently work in the same role while adding UI/UX Designer to my list of skills. I am continuing my pursuit of Software Engineering by building projects, practicing data structures and algorithms, going to meetups, and collaborating with other devs in my free time.
 
 ### I recently started my own freelance web development company called <a href="https://staticfreedesigns.com"> Static Free Designs </a> where I design, host, and deploy custom web applications using WordPress, MERN stack, and Linux, incorporating UI/UX best practices and accessibility standards.
 
